@@ -4,6 +4,11 @@ package lt.bit.Savaite1;
 import java.util.Scanner;
 
 public class PamokuKiekis {
+
+    //Parašykite programą, kuri padėtų Petriukui suskaičiuoti, kiek pamokų jis turi per savaitę
+    // ir kiek tai sudarys minučių. Klaviatūra įvedami 5 skaičiai,
+    // reiškiantys kiekvienos dienos pamokų skaičių.
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
